@@ -1,9 +1,0 @@
-        !COMPILER-GENERATED INTERFACE MODULE: Fri Sep 26 16:46:56 2025
-        ! This source file is for reference only and may not completely
-        ! represent the generated interface used by the compiler.
-        MODULE TIME_INIT__genmod
-          INTERFACE 
-            SUBROUTINE TIME_INIT
-            END SUBROUTINE TIME_INIT
-          END INTERFACE 
-        END MODULE TIME_INIT__genmod
